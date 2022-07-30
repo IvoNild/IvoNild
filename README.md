@@ -4,9 +4,9 @@
 -😊 Tenho hablidades com : HTML, CSS e JS <br>
 -😎 Aprendendo: React Js e Electron <br>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/IvoNild">
-  <img height="180em" width="200px" src="https://github-readme-stats.vercel.app/api?username=IvoNild&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=IvoNild&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvoNild&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
