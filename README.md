@@ -2,7 +2,7 @@
 
 -😉 Estou iniciando como Dev web front-end <br>
 -😊 Tenho hablidades com : HTML, CSS e JS <br>
--😎 Aprendendo: React Js e Electron <br>
+-😎 Aprendendo: React Js e React Native <br>
 
 <!-- <div align="left">
   <a href="https://github.com/IvoNild">
