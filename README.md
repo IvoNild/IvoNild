@@ -2,9 +2,9 @@
 
 -😉 Sou desenvolvedor front-end monbile / Web <br>
 -😊 Tenho hablidades com : <br>
-HTML, CSS, JS <br>
-React Js e React Native <br>
-Styled-components, Tailwindcss e nativewind <br>
+--HTML, CSS, JS <br>
+--React Js e React Native <br>
+--Styled-components, Tailwindcss e nativewind <br>
 -😎 Aprendendo: Angular <br>
 
 <!-- <div align="left">
