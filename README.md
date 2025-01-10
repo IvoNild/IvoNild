@@ -1,11 +1,11 @@
 # Olá, eu sou o Ivo Pedro
 
--😉 Sou desenvolvedor front-end monbile / Web <br>
+-😉 Sou desenvolvedor front-end mobile / Web <br>
 -😊 Tenho hablidades com : <br>
 --HTML, CSS, JS <br>
 --React Js e React Native <br>
 --Styled-components, Tailwindcss e nativewind <br>
--😎 Aprendendo: Angular <br>
+-😎 Aprendendo: ...  <br>
 
 <!-- <div align="left">
   <a href="https://github.com/IvoNild">
